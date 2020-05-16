@@ -1,1 +1,3 @@
 # 9746-AdvancedProgramming_Assessment_2
+
+Students are to program a prototype game project that demonstrates an understanding of the theoretical and practical aspects of the unit through the application of advanced game programming techniques.  The students should focus their work on the implementation of a core game system to an advanced level of functionality. Examples of such advanced systems can include procedural content generation, enemy AI including pathfinding, multiplayer networking, shader programming. The students should use a systematic approach to design and develop their game. Students need to start with developing technical design document (TDD) to provide the detailed technical infrastructure and specifications for their game.
